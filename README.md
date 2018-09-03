@@ -4,3 +4,5 @@ En este blog estaré comentando las lecturas para el curso, además de mantenien
 ## [Semana 1](https://github.com/pedrobw/IIC3633/blob/master/Semana_1.md)
 
 ## [Semana 2](https://github.com/pedrobw/IIC3633/blob/master/Semana_2.md)
+
+## [Semana 3](https://github.com/pedrobw/IIC3633/blob/master/Semana_3.md)
